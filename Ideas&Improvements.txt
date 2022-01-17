@@ -1,0 +1,15 @@
+1: Use Typescript.
+
+2: Write end-to-end cypress test: This may be useful to reduce bugs and have end-to-end testing. 
+Cypress can be beneficial when we have more than one SPA app component.
+
+3: Use dotenv for constants, URLs, and credentials. It can be helpful to handle various environments like development,
+staging and production.
+
+4. Searching and filtering can be pushed to the backend via API for large data sets. 
+At this point, calling API onChange event will not be beneficial and can cause the whole portal's slowness. 
+But even better would be elastic search. We can also include pagination in the backend by getting X records in one go.
+
+5: Include logging. Logging can be helpful to debug. To extend even further, we can also include structured logging.
+
+6: Show default 404 not found or error page.

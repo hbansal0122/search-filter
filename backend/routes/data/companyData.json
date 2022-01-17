@@ -1,0 +1,32 @@
+    [
+        {
+            "name": "Mahindra",
+            "city": "Chandigarh",
+            "speciality": "Plumbing",
+            "logo": "https://picsum.photos/200"
+        },
+        {
+            "name": "Toshiba",
+            "city": "Tokyo",
+            "speciality": "Electrical",
+            "logo": "http://placekitten.com/200/300"
+        },
+        {
+            "name": "Nestle",
+            "city": "Stuttgart",
+            "speciality": "Excavation",
+            "logo": "https://picsum.photos/200"
+        },
+        {
+            "name": "Roche",
+            "city": "Zurich",
+            "speciality": "Plumbing",
+            "logo": "http://placekitten.com/200/300"
+        },
+        {
+            "name": "BMW",
+            "city": "Munich",
+            "speciality": "Excavation",
+            "logo": "https://picsum.photos/200"
+        }
+    ]
